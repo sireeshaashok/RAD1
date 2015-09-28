@@ -4,10 +4,10 @@ package com.rad.Rad1;
  * Hello world!
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!66212133234322rewer343232432323333364323234343432343");
+        System.out.println( "Hello World!");
     }
 }
