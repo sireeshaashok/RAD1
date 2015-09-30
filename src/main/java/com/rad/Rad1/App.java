@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!Jenkins trigger checkee666ytyu");
+        System.out.println( "Hello World!Jenkins trigger checke345e666ytyu");
     }
 }
